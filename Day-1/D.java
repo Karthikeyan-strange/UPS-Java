@@ -5,7 +5,7 @@ class D{
         int age=20;
         String Depart="AI&DS";
         double Marks=95.85;
-        long mobile=6369153979l;
+        long mobile=123456789l;
         System.out.println("Name "+name);
         System.out.println("Gender "+gender);
         System.out.println("Age "+age);
