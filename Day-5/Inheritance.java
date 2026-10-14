@@ -46,8 +46,10 @@ class Cat extends Animal{
 // }
 public class Inheritance{
     public static void main(String args[]){
-        Car b=new Car("Red");
-        b.display();
+        
+        
+        Animal b=new Animal();
+        b.sound();
         
     }
 }
